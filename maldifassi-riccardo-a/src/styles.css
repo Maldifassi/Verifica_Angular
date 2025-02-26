@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.color {
+    color: red;
+}
+.color_secondo {
+    color: blue;
+}
+.color_terzo {
+    color: green;
+}
+.color_quarto {
+    color: yellow;
+}
