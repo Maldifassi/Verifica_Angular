@@ -1,3 +1,13 @@
 .color {
     color: red;
 }
+.contenitore{
+    padding-left: 150px;
+    padding-top: 30px;
+    background-color: gray;
+    width: 400px;
+    height: 400px;
+}
+.test{
+    padding-left: 10px;
+}
